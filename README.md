@@ -18,13 +18,6 @@ A modern, production-ready Pokemon application built with **Next.js 14**, **Type
 - 📱 **Responsive** - Mobile-first design that works on all devices
 - 🧪 **Testable** - Architecture designed for easy unit and integration testing
 
-## 🚀 Live Demo
-
-[Coming Soon]
-
-## 📸 Screenshots
-
-[Coming Soon]
 
 ## 🏛️ Architecture
 
@@ -165,6 +158,8 @@ npm run dev
 - [ ] Dark Mode
 - [ ] Internationalization (i18n)
 - [ ] Deploy to Vercel
+
+**Status:** ✅ Selesai · 🔄 Sedang dikerjakan · ⬜ Belum dimulai
 
 ## 📝 Documentation
 
